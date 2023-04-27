@@ -1,1 +1,1 @@
-# Sistema de ordem de servi
+Java MySQL - Sistema para gestão de serviços
